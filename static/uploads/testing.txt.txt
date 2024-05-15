@@ -1,0 +1,7 @@
+admin
+admin123
+test
+test123
+password
+pa$$word
+pass123

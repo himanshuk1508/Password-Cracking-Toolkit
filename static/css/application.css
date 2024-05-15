@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+main{
+    background-color: white
+}
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(253, 252, 252);
+}
+header {
+    background-color: rgb(177, 14, 14);
+}
+input {
+    background-color: lightblue;
+}
